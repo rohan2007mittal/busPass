@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: white;
+}
+
+
+.middle {
+  width: 120px;
+  height: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+h1 {
+  font-size: 40px;
+  color: black;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.expiration {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* New styles for the "Youth" box */
+#youth-box {
+  background-color: #2ea74a;
+  color: white;
+  font-size: 24px;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.pass-info {
+  border: 1px solid black;
+  padding: 10px;
+}
